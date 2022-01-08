@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🛠 I'm building things on the blockchain at ChromaWay
+
 🏎 I'm a F1 fan, let's go Max 🏁
+
 🚴🏼‍♂️ I'm a road cyclist
 
 ### Connect with me

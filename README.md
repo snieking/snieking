@@ -1,8 +1,4 @@
-### Hi there 👋
-
-- I'm building things on the blockchain at ChromaWay 🛠
-- I'm a F1 fan, let's go Max 🏁🏎
-- I'm a road cyclist 🚴🏼‍♂️
+### Hi 👋
 
 ### Connect with me
 [<img align="left" alt="snieking | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
